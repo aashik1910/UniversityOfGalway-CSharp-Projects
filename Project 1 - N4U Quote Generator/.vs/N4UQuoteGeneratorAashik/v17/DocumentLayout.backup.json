@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\OneDrive - National University of Ireland, Galway\\C# Project\\N4UQuoteGeneratorAashik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B08C4E07-7995-4A15-A85C-EF7BBCE97C82}|N4UQuoteGeneratorAashik\\N4UQuoteGeneratorAashik.csproj|C:\\Users\\Windows\\OneDrive - National University of Ireland, Galway\\C# Project\\N4UQuoteGeneratorAashik\\n4uquotegeneratoraashik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B08C4E07-7995-4A15-A85C-EF7BBCE97C82}|N4UQuoteGeneratorAashik\\N4UQuoteGeneratorAashik.csproj|solutionrelative:n4uquotegeneratoraashik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08C4E07-7995-4A15-A85C-EF7BBCE97C82}|N4UQuoteGeneratorAashik\\N4UQuoteGeneratorAashik.csproj|C:\\Users\\Windows\\OneDrive - National University of Ireland, Galway\\C# Project\\N4UQuoteGeneratorAashik\\n4uquotegeneratoraashik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08C4E07-7995-4A15-A85C-EF7BBCE97C82}|N4UQuoteGeneratorAashik\\N4UQuoteGeneratorAashik.csproj|solutionrelative:n4uquotegeneratoraashik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08C4E07-7995-4A15-A85C-EF7BBCE97C82}|N4UQuoteGeneratorAashik\\N4UQuoteGeneratorAashik.csproj|c:\\users\\windows\\onedrive - national university of ireland, galway\\c# project\\n4uquotegeneratoraashik\\n4uquotegeneratoraashik\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08C4E07-7995-4A15-A85C-EF7BBCE97C82}|N4UQuoteGeneratorAashik\\N4UQuoteGeneratorAashik.csproj|solutionrelative:n4uquotegeneratoraashik\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive - National University of Ireland, Galway\\C# Project\\N4UQuoteGeneratorAashik\\N4UQuoteGeneratorAashik\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "N4UQuoteGeneratorAashik\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive - National University of Ireland, Galway\\C# Project\\N4UQuoteGeneratorAashik\\N4UQuoteGeneratorAashik\\Form1.Designer.cs",
+              "RelativeToolTip": "N4UQuoteGeneratorAashik\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:15:37.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive - National University of Ireland, Galway\\C# Project\\N4UQuoteGeneratorAashik\\N4UQuoteGeneratorAashik\\Form1.cs",
+              "RelativeDocumentMoniker": "N4UQuoteGeneratorAashik\\Form1.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive - National University of Ireland, Galway\\C# Project\\N4UQuoteGeneratorAashik\\N4UQuoteGeneratorAashik\\Form1.cs",
+              "RelativeToolTip": "N4UQuoteGeneratorAashik\\Form1.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwPYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:01:14.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\OneDrive - National University of Ireland, Galway\\C# Project\\N4UQuoteGeneratorAashik\\N4UQuoteGeneratorAashik\\Form1.cs",
+              "RelativeDocumentMoniker": "N4UQuoteGeneratorAashik\\Form1.cs",
+              "ToolTip": "C:\\Users\\Windows\\OneDrive - National University of Ireland, Galway\\C# Project\\N4UQuoteGeneratorAashik\\N4UQuoteGeneratorAashik\\Form1.cs [Design]",
+              "RelativeToolTip": "N4UQuoteGeneratorAashik\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:32:11.562Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

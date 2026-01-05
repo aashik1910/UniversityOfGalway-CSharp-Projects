@@ -1,0 +1,11 @@
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\N4UQuoteGeneratorAashik\N4UQuoteGeneratorAashik\bin\Debug\N4UQuoteGeneratorAashik.exe.config
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\N4UQuoteGeneratorAashik\N4UQuoteGeneratorAashik\bin\Debug\N4UQuoteGeneratorAashik.exe
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\N4UQuoteGeneratorAashik\N4UQuoteGeneratorAashik\bin\Debug\N4UQuoteGeneratorAashik.pdb
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\N4UQuoteGeneratorAashik\N4UQuoteGeneratorAashik\obj\Debug\N4UQuoteGeneratorAashik.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\N4UQuoteGeneratorAashik\N4UQuoteGeneratorAashik\obj\Debug\N4UQuoteGeneratorAashik.N4UQuoteGenerator.resources
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\N4UQuoteGeneratorAashik\N4UQuoteGeneratorAashik\obj\Debug\N4UQuoteGeneratorAashik.Properties.Resources.resources
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\N4UQuoteGeneratorAashik\N4UQuoteGeneratorAashik\obj\Debug\N4UQuoteGeneratorAashik.csproj.GenerateResource.cache
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\N4UQuoteGeneratorAashik\N4UQuoteGeneratorAashik\obj\Debug\N4UQuoteGeneratorAashik.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\N4UQuoteGeneratorAashik\N4UQuoteGeneratorAashik\obj\Debug\N4UQuoteGeneratorAashik.exe
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\N4UQuoteGeneratorAashik\N4UQuoteGeneratorAashik\obj\Debug\N4UQuoteGeneratorAashik.pdb
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\N4UQuoteGeneratorAashik\N4UQuoteGeneratorAashik\obj\Debug\N4UQuoteGeneratorAashik.exe.config
