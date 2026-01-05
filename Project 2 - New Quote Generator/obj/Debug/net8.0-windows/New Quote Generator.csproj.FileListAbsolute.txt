@@ -1,0 +1,17 @@
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\bin\Debug\net8.0-windows\New Quote Generator.exe
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\bin\Debug\net8.0-windows\New Quote Generator.deps.json
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\bin\Debug\net8.0-windows\New Quote Generator.runtimeconfig.json
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\bin\Debug\net8.0-windows\New Quote Generator.dll
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\bin\Debug\net8.0-windows\New Quote Generator.pdb
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\obj\Debug\net8.0-windows\New_Quote_Generator.Form1.resources
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\obj\Debug\net8.0-windows\New Quote Generator.csproj.GenerateResource.cache
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\obj\Debug\net8.0-windows\New Quote Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\obj\Debug\net8.0-windows\New Quote Generator.AssemblyInfoInputs.cache
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\obj\Debug\net8.0-windows\New Quote Generator.AssemblyInfo.cs
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\obj\Debug\net8.0-windows\New Quote Generator.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\obj\Debug\net8.0-windows\New Quote Generator.dll
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\obj\Debug\net8.0-windows\refint\New Quote Generator.dll
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\obj\Debug\net8.0-windows\New Quote Generator.pdb
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\obj\Debug\net8.0-windows\New Quote Generator.genruntimeconfig.cache
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\obj\Debug\net8.0-windows\ref\New Quote Generator.dll
+C:\Users\Windows\OneDrive - National University of Ireland, Galway\C# Project\New Quote Generator\obj\Debug\net8.0-windows\New_Quote_Generator.Properties.Resources.resources

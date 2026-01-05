@@ -1,0 +1,155 @@
+CURRENT STOCK REPORT
+Generated: 18/12/2025 4:41 pm
+========================================
+ITEM: Tough Trucks (Paperback)
+STOCK: 15 Remaining 
+----------------------------------------
+ITEM: Tough Trucks (Hardback)
+STOCK: 11 Remaining 
+----------------------------------------
+ITEM: Tough Trucks (Sticker Book)
+STOCK: 3 Remaining  [LOW STOCK WARNING]
+----------------------------------------
+ITEM: Tough Trucks (PopUp Book)
+STOCK: 10 Remaining 
+----------------------------------------
+ITEM: Tough Trucks (Large Print)
+STOCK: 11 Remaining 
+----------------------------------------
+ITEM: Just once more! (Paperback)
+STOCK: 20 Remaining 
+----------------------------------------
+ITEM: Just once more! (Hardback)
+STOCK: 15 Remaining 
+----------------------------------------
+ITEM: Just once more! (Sticker Book)
+STOCK: 1 Remaining  [LOW STOCK WARNING]
+----------------------------------------
+ITEM: Just once more! (PopUp Book)
+STOCK: 8 Remaining 
+----------------------------------------
+ITEM: Just once more! (Large Print)
+STOCK: 10 Remaining 
+----------------------------------------
+ITEM: Duck in the Truck (Paperback)
+STOCK: 17 Remaining 
+----------------------------------------
+ITEM: Duck in the Truck (Hardback)
+STOCK: 4 Remaining  [LOW STOCK WARNING]
+----------------------------------------
+ITEM: Duck in the Truck (Sticker Book)
+STOCK: 15 Remaining 
+----------------------------------------
+ITEM: Duck in the Truck (PopUp Book)
+STOCK: 9 Remaining 
+----------------------------------------
+ITEM: Duck in the Truck (Large Print)
+STOCK: 7 Remaining 
+----------------------------------------
+ITEM: One Magical Morning (Paperback)
+STOCK: 25 Remaining 
+----------------------------------------
+ITEM: One Magical Morning (Hardback)
+STOCK: 10 Remaining 
+----------------------------------------
+ITEM: One Magical Morning (Sticker Book)
+STOCK: 13 Remaining 
+----------------------------------------
+ITEM: One Magical Morning (PopUp Book)
+STOCK: 2 Remaining  [LOW STOCK WARNING]
+----------------------------------------
+ITEM: One Magical Morning (Large Print)
+STOCK: 10 Remaining 
+----------------------------------------
+ITEM: Peekaboo Bedtime (Paperback)
+STOCK: 17 Remaining 
+----------------------------------------
+ITEM: Peekaboo Bedtime (Hardback)
+STOCK: 16 Remaining 
+----------------------------------------
+ITEM: Peekaboo Bedtime (Sticker Book)
+STOCK: 10 Remaining 
+----------------------------------------
+ITEM: Peekaboo Bedtime (PopUp Book)
+STOCK: 5 Remaining 
+----------------------------------------
+ITEM: Peekaboo Bedtime (Large Print)
+STOCK: 3 Remaining  [LOW STOCK WARNING]
+----------------------------------------
+ITEM: Mr Moo Aaachoo (Paperback)
+STOCK: 15 Remaining 
+----------------------------------------
+ITEM: Mr Moo Aaachoo (Hardback)
+STOCK: 12 Remaining 
+----------------------------------------
+ITEM: Mr Moo Aaachoo (Sticker Book)
+STOCK: 3 Remaining  [LOW STOCK WARNING]
+----------------------------------------
+ITEM: Mr Moo Aaachoo (PopUp Book)
+STOCK: 10 Remaining 
+----------------------------------------
+ITEM: Mr Moo Aaachoo (Large Print)
+STOCK: 15 Remaining 
+----------------------------------------
+ITEM: Bedtime for Tiny mouse (Paperback)
+STOCK: 20 Remaining 
+----------------------------------------
+ITEM: Bedtime for Tiny mouse (Hardback)
+STOCK: 15 Remaining 
+----------------------------------------
+ITEM: Bedtime for Tiny mouse (Sticker Book)
+STOCK: 1 Remaining  [LOW STOCK WARNING]
+----------------------------------------
+ITEM: Bedtime for Tiny mouse (PopUp Book)
+STOCK: 8 Remaining 
+----------------------------------------
+ITEM: Bedtime for Tiny mouse (Large Print)
+STOCK: 10 Remaining 
+----------------------------------------
+ITEM: Monkey Mischief (Paperback)
+STOCK: 18 Remaining 
+----------------------------------------
+ITEM: Monkey Mischief (Hardback)
+STOCK: 4 Remaining  [LOW STOCK WARNING]
+----------------------------------------
+ITEM: Monkey Mischief (Sticker Book)
+STOCK: 15 Remaining 
+----------------------------------------
+ITEM: Monkey Mischief (PopUp Book)
+STOCK: 9 Remaining 
+----------------------------------------
+ITEM: Monkey Mischief (Large Print)
+STOCK: 11 Remaining 
+----------------------------------------
+ITEM: Hippo Has a Hat (Paperback)
+STOCK: 25 Remaining 
+----------------------------------------
+ITEM: Hippo Has a Hat (Hardback)
+STOCK: 10 Remaining 
+----------------------------------------
+ITEM: Hippo Has a Hat (Sticker Book)
+STOCK: 13 Remaining 
+----------------------------------------
+ITEM: Hippo Has a Hat (PopUp Book)
+STOCK: 2 Remaining  [LOW STOCK WARNING]
+----------------------------------------
+ITEM: Hippo Has a Hat (Large Print)
+STOCK: 10 Remaining 
+----------------------------------------
+ITEM: One More Cuddle (Paperback)
+STOCK: 17 Remaining 
+----------------------------------------
+ITEM: One More Cuddle (Hardback)
+STOCK: 16 Remaining 
+----------------------------------------
+ITEM: One More Cuddle (Sticker Book)
+STOCK: 10 Remaining 
+----------------------------------------
+ITEM: One More Cuddle (PopUp Book)
+STOCK: 5 Remaining 
+----------------------------------------
+ITEM: One More Cuddle (Large Print)
+STOCK: 3 Remaining  [LOW STOCK WARNING]
+----------------------------------------
+========================================
+END OF REPORT

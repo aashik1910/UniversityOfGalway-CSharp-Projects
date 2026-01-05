@@ -1,0 +1,10 @@
+2025-12-18 10:42:01,IBH934573,Duck in the Truck x1,€5.50,€0.00
+2025-12-18 10:44:55,IBH118784,One Magical Morning x1,€3.50,€0.00
+2025-12-18 11:27:57,IBH942591,One Magical Morning x2,€13.00,€0.00
+2025-12-18 11:28:37,IBH416355,Mr Moo Aaachoo x3,€42.72,€2.25
+2025-12-18 13:26:17,IBH398878,Bedtime for Tiny mouse x1; Peekaboo Bedtime x2; Peekaboo Bedtime x1,€27.30,€1.44
+2025-12-18 14:17:18,IBH338584,One More Cuddle x4,€35.15,€1.85
+2025-12-18 14:24:44,IBH003920,Just once more! x1; Monkey Mischief x1; Tough Trucks x1; One More Cuddle x1,€28.24,€1.49
+2025-12-18 14:44:11,IBH907950,Duck in the Truck x1,€3.50,€0.00
+2025-12-18 16:39:12,IBH:39:12 pm,Tough Trucks x1; Tough Trucks x3; Tough Trucks x1,€67.40,€3.55
+2025-12-18 16:40:32,IBH913608,Duck in the Truck x4,€36.10,€1.90

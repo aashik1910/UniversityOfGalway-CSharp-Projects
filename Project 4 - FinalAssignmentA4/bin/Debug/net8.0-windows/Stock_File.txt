@@ -1,0 +1,50 @@
+Tough Trucks,Paperback,8.99,15
+Tough Trucks,Hardback,10.99,12
+Tough Trucks,Sticker Book,12.99,3
+Tough Trucks,PopUp Book,13.99,10
+Tough Trucks,Large Print,14.99,15
+Just once more!,Paperback,2.99,20
+Just once more!,Hardback,4.99,15
+Just once more!,Sticker Book,6.99,1
+Just once more!,PopUp Book,7.99,8
+Just once more!,Large Print,8.99,10
+Duck in the Truck,Paperback,3.50,18
+Duck in the Truck,Hardback,5.50,4
+Duck in the Truck,Sticker Book,7.50,15
+Duck in the Truck,PopUp Book,8.50,9
+Duck in the Truck,Large Print,9.50,11
+One Magical Morning,Paperback,1.50,25
+One Magical Morning,Hardback,3.50,10
+One Magical Morning,Sticker Book,5.50,13
+One Magical Morning,PopUp Book,6.50,2
+One Magical Morning,Large Print,7.50,10
+Peekaboo Bedtime,Paperback,5.25,17
+Peekaboo Bedtime,Hardback,7.25,16
+Peekaboo Bedtime,Sticker Book,9.25,10
+Peekaboo Bedtime,PopUp Book,10.25,5
+Peekaboo Bedtime,Large Print,11.25,3
+Mr Moo Aaachoo,Paperback,8.99,15
+Mr Moo Aaachoo,Hardback,10.99,12
+Mr Moo Aaachoo,Sticker Book,12.99,3
+Mr Moo Aaachoo,PopUp Book,13.99,10
+Mr Moo Aaachoo,Large Print,14.99,15
+Bedtime for Tiny mouse,Paperback,2.99,20
+Bedtime for Tiny mouse,Hardback,4.99,15
+Bedtime for Tiny mouse,Sticker Book,6.99,1
+Bedtime for Tiny mouse,PopUp Book,7.99,8
+Bedtime for Tiny mouse,Large Print,8.99,10
+Monkey Mischief,Paperback,3.50,18
+Monkey Mischief,Hardback,5.50,4
+Monkey Mischief,Sticker Book,7.50,15
+Monkey Mischief,PopUp Book,8.50,9
+Monkey Mischief,Large Print,9.50,11
+Hippo Has a Hat,Paperback,1.50,25
+Hippo Has a Hat,Hardback,3.50,10
+Hippo Has a Hat,Sticker Book,5.50,13
+Hippo Has a Hat,PopUp Book,6.50,2
+Hippo Has a Hat,Large Print,7.50,10
+One More Cuddle,Paperback,5.25,17
+One More Cuddle,Hardback,7.25,16
+One More Cuddle,Sticker Book,9.25,10
+One More Cuddle,PopUp Book,10.25,5
+One More Cuddle,Large Print,11.25,3

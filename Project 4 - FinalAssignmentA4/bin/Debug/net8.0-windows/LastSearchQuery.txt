@@ -1,0 +1,52 @@
+SEARCH RESULTS
+========================================
+DATE: 2025-12-18 10:42:01
+ID: IBH934573
+ITEMS: Duck in the Truck x1
+TOTAL: €5.50 (Discount: €0.00)
+----------------------------------------
+DATE: 2025-12-18 10:44:55
+ID: IBH118784
+ITEMS: One Magical Morning x1
+TOTAL: €3.50 (Discount: €0.00)
+----------------------------------------
+DATE: 2025-12-18 11:27:57
+ID: IBH942591
+ITEMS: One Magical Morning x2
+TOTAL: €13.00 (Discount: €0.00)
+----------------------------------------
+DATE: 2025-12-18 11:28:37
+ID: IBH416355
+ITEMS: Mr Moo Aaachoo x3
+TOTAL: €42.72 (Discount: €2.25)
+----------------------------------------
+DATE: 2025-12-18 13:26:17
+ID: IBH398878
+ITEMS: Bedtime for Tiny mouse x1; Peekaboo Bedtime x2; Peekaboo Bedtime x1
+TOTAL: €27.30 (Discount: €1.44)
+----------------------------------------
+DATE: 2025-12-18 14:17:18
+ID: IBH338584
+ITEMS: One More Cuddle x4
+TOTAL: €35.15 (Discount: €1.85)
+----------------------------------------
+DATE: 2025-12-18 14:24:44
+ID: IBH003920
+ITEMS: Just once more! x1; Monkey Mischief x1; Tough Trucks x1; One More Cuddle x1
+TOTAL: €28.24 (Discount: €1.49)
+----------------------------------------
+DATE: 2025-12-18 14:44:11
+ID: IBH907950
+ITEMS: Duck in the Truck x1
+TOTAL: €3.50 (Discount: €0.00)
+----------------------------------------
+DATE: 2025-12-18 16:39:12
+ID: IBH:39:12 pm
+ITEMS: Tough Trucks x1; Tough Trucks x3; Tough Trucks x1
+TOTAL: €67.40 (Discount: €3.55)
+----------------------------------------
+DATE: 2025-12-18 16:40:32
+ID: IBH913608
+ITEMS: Duck in the Truck x4
+TOTAL: €36.10 (Discount: €1.90)
+----------------------------------------
